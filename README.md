@@ -1,6 +1,4 @@
 # T4G-Template
-<!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf). * working in progress for EG T4G Template Guide.
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
@@ -26,16 +24,12 @@ Any text that is currently holding a space / is an instruction for the person fi
 # Overview
 <!--- TITLE --->
 <!--- SUMMARY --->
-The is an assistive technology device that.
+The is an assistive technology device that encourage the user to take their first step and raise their step.
 
-The device is comprised of off-the-shelf electronics and 3D printed parts.
 
-The is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
-
-The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
+<img src="photos/Step Switch.jpeg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -73,9 +67,9 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)     |
-| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Template_BOM.csv)     |
-| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)    |
+| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Step_Switch.pdf)     |
+| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Step_Switch_BOM.csv)     |
+| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Step_Switch.pdf)    |
 | Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
